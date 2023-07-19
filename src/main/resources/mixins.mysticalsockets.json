@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "dev.quarris.mysticalsockets.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mysticalsockets.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}
